@@ -1,0 +1,29 @@
+body {
+    background-color: #566169;
+}
+
+#header {
+    font-size: 50px;
+    padding: 25px;
+    margin-left: 65px;
+    text-shadow: 2px 3px grey;
+}
+
+div img {
+   margin: 0px 65px 0px 65px;
+}
+div footer {
+    margin-left: 55px;
+}
+
+.article {
+    margin: 0px 65px 0px 65px;
+}
+
+body footer {
+    padding: 10px;
+}
+
+ul {
+    margin-left: 65px;
+}
